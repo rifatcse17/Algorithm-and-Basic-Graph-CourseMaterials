@@ -1,4 +1,4 @@
-GraphTheoryCourseMaterials
+AlgorithmAndGraphTheoryCourseMaterials
 
 The repository containts implementation of several popular Graph Algorithms using C++ programming language. Ofcourse you can easily convert the code to any programming language you want using the concept and algorithm demonstrated here.
 
