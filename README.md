@@ -9,6 +9,6 @@ Introduction To Algrithm by Corman
     Graph Representation in Computer (Directed & Undirected)
     Breadth First Search
     Depth First Search
-    some dorting algorithm
+    some sorting algorithm
     
  please contact rifatcse17@gmail.com if there's any problem with the code or need any code...........
