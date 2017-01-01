@@ -67,3 +67,5 @@ int main(){
 	return 0;
 
 }
+
+//http://ideone.com/DIDNA7
